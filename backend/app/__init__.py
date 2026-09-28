@@ -1,0 +1,1 @@
+"""Mystery Village backend application package."""

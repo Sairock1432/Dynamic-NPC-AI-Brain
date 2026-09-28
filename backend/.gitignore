@@ -1,0 +1,8 @@
+venv/
+.env
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/chroma/
+__pycache__/
+*.py[cod]
